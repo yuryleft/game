@@ -1,5 +1,5 @@
 # game
-
+При создании использовались VueCLI + CompositionAPI
 ## Project setup
 ```
 npm install
